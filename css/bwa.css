@@ -134,3 +134,8 @@ img.AngularJS-large {
 .modal-backdrop.fade.in {
   display: block;
 }
+
+.scroll-when-long {
+  max-height: 500px;
+  overflow: auto;
+}
